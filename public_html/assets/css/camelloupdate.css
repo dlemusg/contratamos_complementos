@@ -1,0 +1,18 @@
+.footer{
+    
+    
+    width: 100% !important;
+    height: 100vh;
+}
+
+
+#containerfooter
+{
+    height: 100vh;
+  position: relative
+}
+
+
+.header{
+    width: 100% !important;
+}
